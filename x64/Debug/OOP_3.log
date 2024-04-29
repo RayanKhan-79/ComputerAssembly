@@ -1,0 +1,20 @@
+﻿  Computer.cpp
+  ComputerAssembly.cpp
+  MacAssembly.cpp
+C:\Users\Waseem Khan\Desktop\Visual_Studio\OOP_03\MacAssembly.cpp(93,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Waseem Khan\Desktop\Visual_Studio\OOP_03\MacAssembly.cpp(97,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Waseem Khan\Desktop\Visual_Studio\OOP_03\MacAssembly.cpp(101,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Waseem Khan\Desktop\Visual_Studio\OOP_03\MacAssembly.cpp(105,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Waseem Khan\Desktop\Visual_Studio\OOP_03\MacAssembly.cpp(109,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Waseem Khan\Desktop\Visual_Studio\OOP_03\MacAssembly.cpp(113,45): warning C4305: 'argument': truncation from 'double' to 'float'
+  MacDesktop.cpp
+  MacLaptop.cpp
+  Main.cpp
+  PCAssembly.cpp
+C:\Users\Waseem Khan\Desktop\Visual_Studio\OOP_03\PCAssembly.cpp(184,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  PCDesktop.cpp
+  PCLaptop.cpp
+  PCTablet.cpp
+  iPad.cpp
+  Generating Code...
+  OOP_3.vcxproj -> C:\Users\Waseem Khan\Desktop\Visual_Studio\OOP_03\x64\Debug\OOP_3.exe
